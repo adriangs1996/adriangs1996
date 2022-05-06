@@ -1,5 +1,10 @@
 ### Hi there 👋, my name is Adrian Gonzalez
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriangs1996&theme=dark" />
+
+
+[![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=adriangs1996&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ![My summary](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=adriangs1996&badges=3&show-avatar=true&show-header=true)
 
 ![My skills](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=adriangs1996)
