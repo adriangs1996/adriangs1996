@@ -7,7 +7,7 @@
 
 ![My summary](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=adriangs1996&badges=3&show-avatar=true&show-header=true)
 
-![My skills](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=adriangs1996)
+# ![My skills](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=adriangs1996)
 
 <!--
 **adriangs1996/adriangs1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
